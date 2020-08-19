@@ -1,0 +1,32 @@
+body {
+    background-color: #171c26;
+    color: #dedede;
+    font-family: sans-serif;
+    display: grid;
+}
+
+a {
+    color: deeppink;
+}
+
+table {
+    margin: auto;
+}
+
+form, .task-form {
+    text-align: center;
+    margin: 10px;
+}
+
+td, th {
+    border: 1px slategrey solid;
+    padding: 10px;
+}
+
+.main-title {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
